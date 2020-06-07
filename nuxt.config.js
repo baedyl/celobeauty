@@ -1,5 +1,5 @@
 export default {
-  router: { base: '/my-project/' },
+  router: { base: '/celobeauty/' },
   mode: 'spa',
   /*
    ** Headers of the page
