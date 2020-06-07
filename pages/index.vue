@@ -2,22 +2,40 @@
   <div class="container">
     <div>
       <logo />
+      <el-carousel indicator-position="outside">
+        <el-carousel-item key="4">
+          <img src="~/assets/cover4.jpg" />
+        </el-carousel-item>
+        <el-carousel-item key="1">
+          <img src="~/assets/cover.png" />
+        </el-carousel-item>
+        <el-carousel-item key="2">
+          <img src="~/assets/cover2.png" />
+        </el-carousel-item>
+        <el-carousel-item key="3">
+          <img src="~/assets/cover3.jpg" />
+        </el-carousel-item>
+      </el-carousel>
       <h1 class="title">
-        celobeauty
+        Coach Celo
       </h1>
       <h2 class="subtitle">
-        Static website for beauty and cosmetics
+        Aux Passionnées par l'univers de la beauté et de l'esthétique
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          Documentation
+        <a
+          href="https://web.facebook.com/The-Celo-Beauty-Boot-Camp-265210257532267/"
+          target="_blank"
+          class="button--green"
+        >
+          Facebook
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://www.instagram.com/celokmr/"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          Instagram
         </a>
       </div>
     </div>
