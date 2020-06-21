@@ -13,7 +13,7 @@
           <img src="~/assets/cover2.png" />
         </el-carousel-item>
         <el-carousel-item key="3">
-          <img src="~/assets/cover3.jpg" />
+          <img src="~/assets/cover3.jpeg" />
         </el-carousel-item>
       </el-carousel>
       <h1 class="title">
