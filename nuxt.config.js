@@ -1,6 +1,6 @@
 export default {
   router: { base: '/celobeauty/' },
-  mode: 'spa',
+  ssr: true,
   /*
    ** Headers of the page
    */
